@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+     "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -16,8 +16,8 @@
     "url": "https://github.com/ahsanayaz/stripe-connect-backend.git/issues"
   },
   "author": {
-    "name": "Muhammad Ahsan Ayaz",
-    "email": "ahsan.ubitian@gmail.com"
+    "name": "devplanet",
+    "email": "devplanet420@gmail.com"
   },
   "keywords": [
     "react",
