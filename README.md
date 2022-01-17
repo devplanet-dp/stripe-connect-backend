@@ -7,7 +7,7 @@ The repository has an `.env.local` file and  fill the values accordingly based o
 ```
 STRIPE_API_SECRET=sk_test_asdkjqwklejqwklejkasljdkljasdklj
 NEXT_PUBLIC_STRIPE_API_PUBLIC=pk_test_asldksalaksdjjkasdhjaksdhjkhasd
-NEXT_PUBLIC_APP_SCHEME=pandagums
+NEXT_PUBLIC_APP_SCHEME=ridershare
 NEXT_PUBLIC_HOST=http://localhost:3000
 STRIPE_APP_FEE=1.23
 ```
