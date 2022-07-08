@@ -39,13 +39,13 @@
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
-  max-width: 800px;
+  max-width: 1800px;
 }
 
 .card {
   margin: 1rem;
   cursor: pointer;
-  flex-basis: 45%;
+  flex-basis: 100%;
   padding: 1.5rem;
   text-align: left;
   color: inherit;
