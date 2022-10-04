@@ -11,7 +11,7 @@ export default function RegisterMobile() {
   const redirectToApp = () => {
     const { account_id } = query
     window.open(
-      `${APP_SCHEME}://deeplinks/register-success?account_id=${account_id}`
+      `https://suguappservice.page.link/naxz?account_id=${account_id}`
     )
   }
 
